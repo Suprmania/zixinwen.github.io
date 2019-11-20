@@ -1,7 +1,7 @@
-url: "http://sysilviakim.github.io"
+url: "http://zixinwen.github.io"
 baseurl: ""
-title: Seo-young Silvia Kim
-description: Ph.D. Candidate in Social Sciences, Caltech
+title: David Zixin Wen
+description: Undergraduate in UIBE
 
 # --- Navigation bar options --- #
 
@@ -10,7 +10,7 @@ navbar-links:
   About: "index"
   CV: "cv"
   Research: "research"
-  Blog: "blog"
+  Notes: 'notes'
   ## Programming: "programming"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -52,22 +52,22 @@ author:
 # Select your active Social Network Links.
 social-network-links:
   rss: true
-  email: "sskim@caltech.edu"
-  github: sysilviakim
-  twitter: sysilviakim
-  linkedin: sysilviakim
-  stackoverflow: "6886345/kim"
+  email: "davidzxwen@icloud.com"
+  github: Suprmania
+  # twitter: sysilviakim
+  # linkedin: sysilviakim
+  # stackoverflow: "6886345/kim"
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
   facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.sysilviakim.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.zixinwen.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -164,6 +164,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+
 
 # prose.io config
 prose:

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Seo-young Silvia Kim
+title: Zixin Wen
 published: true
-subtitle: 'Ph.D. Candidate in Social Sciences, California Institute of Technology'
+subtitle: 'Undergraduate'
 use-site-title: true
 ---
 
@@ -10,4 +10,4 @@ use-site-title: true
   <img width="300" style = "margin: 0;" src="./img/profile-19Dec01-cropped.jpg" id = "profile">
 </div>
 
-Welcome! I am a Ph.D. candidate in Social Sciences at California Institute of Technology with research interests in American Politics and Political Methodology. More specifically, I focus on political behavior such as voter turnout and campaign contributions, working with large voter registration datasets and Federal Election Commission datasets. I mainly use R and Stan to employ tools such as probabilistic record linkage, semiparametric regression, and Bayesian statistics.
+I am an undergraduate student in Statistics department at UIBE in Beijing. My research interest lies in deep learning theory. More specifically, I focus on the optimization behaviors and provable statistical guarantees for deep learning. I am also skilled at conducting experiments via major deep learning frameworks in python, say PyTorch, TensorFlow and MxNet.
